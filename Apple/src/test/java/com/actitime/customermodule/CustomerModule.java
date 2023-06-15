@@ -17,6 +17,7 @@ public void createCustomer() {
 	Reporter.log("Modify Customer",true);
 	Reporter.log("Delete Customer",true);
 	Reporter.log("Delete Customer",false);
+	Reporter.log("Modify Customer",false);
 	driver.close();
 	}
 }
